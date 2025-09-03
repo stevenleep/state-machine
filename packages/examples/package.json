@@ -1,6 +1,6 @@
 {
   "name": "@stevenleep/state-machine-examples",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Examples and demos for @stevenleep/state-machine packages",
   "private": true,
   "scripts": {

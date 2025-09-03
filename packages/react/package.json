@@ -1,6 +1,6 @@
 {
   "name": "@stevenleep/state-machine-react",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "React hooks and adapters for @stevenleep/state-machine-core",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
@@ -27,7 +27,7 @@
     "typescript",
     "state-management"
   ],
-  "author": "Your Name",
+  "author": "Ivan",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0"
@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/elegant-state-machine.git",
+    "url": "https://github.com/stevenleep/state-machine.git",
     "directory": "packages/react"
   },
   "publishConfig": {
